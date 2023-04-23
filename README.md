@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iago aka hacklego</h1>
 <h3 align="center">Cyber security analyst, research and also a cryptography enthusiast</h3>
 
-- I'm working as a Security Operations Centre (SOC) Manager and I'm spelialised in Threat Hunting and Cyber Threat Intelligence.
+- I'm working as a Security Operations Centre (SOC) Manager and I'm specialised in Threat Hunting and Cyber Threat Intelligence.
 
 - Founder and member of [hackliza](https://github.com/hackliza) a galician communitty (in english and galician) about cyber security, maths, free software and other stuff.
 
