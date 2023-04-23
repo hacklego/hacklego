@@ -3,7 +3,7 @@
 
 - I'm working as a Security Operations Centre (SOC) Manager and I'm specialised in Threat Hunting and Cyber Threat Intelligence.
 
-- Founder and member of [hackliza](https://github.com/hackliza) a galician communitty (in english and galician) about cyber security, maths, free software and other stuff.
+- Founder and member of [hackliza](https://github.com/hackliza) a galician community (in english and galician) about cyber security, maths, free software and other stuff.
 
 - PhD Student at University of Vigo where I'm working on **Feature engineering and data enrichment for cyber security AI Models**
 
