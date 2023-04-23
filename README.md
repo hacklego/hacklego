@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iago aka hacklego</h1>
-<h3 align="center">Cyber security analyst, research and also a cryptography enthusiast</h3>
+<h3 align="center">Cyber security analyst, researcher and also a cryptography enthusiast</h3>
 
 - I'm working as a Security Operations Centre (SOC) Manager and I'm specialised in Threat Hunting and Cyber Threat Intelligence.
 
